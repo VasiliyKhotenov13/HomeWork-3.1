@@ -1,0 +1,21 @@
+[
+  {
+    "name" : "",
+    "cookingTime" : "",
+    "ingredients" : [
+      {
+        "name": "",
+        "count": "",
+        "measureUnit": ""
+      }
+    ],
+    "steps" :
+    {
+      "1" : "",
+      "2" : "",
+      "3" : "",
+      "4" : "",
+      "5" : ""
+    }
+  }
+]
